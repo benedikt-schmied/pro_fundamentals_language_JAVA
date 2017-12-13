@@ -12,7 +12,8 @@ pro_fundamentals_language_JAVA
  |      |          |
  |      |          |-- target   : its about the JAVA language
  |      |          |-- subject  : its about a language
- |      |-------------- purpose : getting in touch with a new language, tools or any other kind of software and, or hardware. 
+ |      |-------------- purpose : getting in touch with a new language, tools or any 
+ |      |                         other kind of software and, or hardware. 
  |                                >> Learning its fundamentals
  |------------------------- pro : project identifier
 ```
